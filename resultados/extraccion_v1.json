@@ -1,0 +1,24 @@
+{
+  "nombre": "extraccion_v1",
+  "modelo": "gemini-3.1-flash-lite-preview",
+  "temperature": 0.7,
+  "fecha": "2026-10-15T10:36:10",
+  "prompt": "\nExtract information from this customer feedback: \"I ordered item #12345 on March 15th. The delivery was fast but the packaging was damaged.\"\n",
+  "respuestas": [
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging",
+    "Here is the extracted information from the feedback:\n\n*   **Item Number:** #12345\n*   **Order Date:** March 15th\n*   **Positive Feedback:** Fast delivery\n*   **Negative Feedback:** Damaged packaging"
+  ]
+}

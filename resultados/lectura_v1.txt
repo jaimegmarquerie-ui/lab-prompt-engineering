@@ -1,0 +1,637 @@
+===== SENTIMIENTO v1 =====
+
+--- Respuesta 1 ---
+This message can be classified as:
+
+*   **Sentiment:** Positive
+*   **Category:** Feedback / Testimonial
+*   **Intent:** Expression of satisfaction
+
+--- Respuesta 2 ---
+This message is classified as **Positive** (or **Sentiment: Positive**). It expresses customer satisfaction and approval.
+
+--- Respuesta 3 ---
+This message can be classified as:
+
+*   **Sentiment:** Positive
+*   **Category:** Customer Feedback / Testimonial
+*   **Intent:** Expression of satisfaction
+
+--- Respuesta 4 ---
+Error: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\nPlease retry in 35.99169627s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}]
+
+--- Respuesta 5 ---
+Error: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\nPlease retry in 34.98851712s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}]
+
+--- Respuesta 6 ---
+Classification: **Positive / Positive Feedback**
+
+--- Respuesta 7 ---
+The customer message can be classified as:
+
+*   **Sentiment:** Positive
+*   **Category:** Feedback / Praise
+*   **Intent:** Expression of satisfaction
+
+--- Respuesta 8 ---
+Classification: **Positive / Compliment**
+
+--- Respuesta 9 ---
+This customer message can be classified as:
+
+*   **Sentiment:** Positive
+*   **Category:** Feedback / Testimonial
+*   **Intent:** Expression of satisfaction
+
+--- Respuesta 10 ---
+This message is classified as **Positive** (or **Sentiment: Positive**). It can also be categorized as **Customer Feedback/Praise**.
+
+--- Respuesta 11 ---
+This customer message can be classified as:
+
+*   **Sentiment:** Positive
+*   **Category:** Feedback / Testimonial
+*   **Intent:** Expression of satisfaction
+
+--- Respuesta 12 ---
+This message is classified as **Positive** (or **Sentiment: Positive**). It expresses customer satisfaction and approval.
+
+--- Respuesta 13 ---
+This customer message is classified as **Positive Feedback** (or **Sentiment: Positive**).
+
+--- Respuesta 14 ---
+Error: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\nPlease retry in 34.787732575s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}]
+
+--- Respuesta 15 ---
+This message is classified as **Positive** (or **Sentiment: Positive**). It is a complimentary piece of customer feedback expressing satisfaction.
+
+===== PRODUCTO v1 =====
+
+--- Respuesta 1 ---
+Here are three options for the product description, tailored to different brand "voices."
+
+### Option 1: The "Practical Professional" (Focus on value and productivity)
+**Product Name:** ApexFlow Wireless Precision Mouse
+
+**Upgrade your workspace without breaking the bank.** 
+The ApexFlow Wireless Mouse combines ergonomic comfort with reliable performance, making it the perfect companion for your daily grind. Designed for precision and speed, this mouse features plug-and-play connectivity and a whisper-quiet clicking mechanism, ensuring you stay focused whether you’re in a coffee shop or a quiet office.
+
+*   **Reliable Wireless Freedom:** Enjoy a lag-free 2.4GHz connection up to 33 feet away.
+*   **Ergonomic Design:** Contoured shape fits naturally in your hand for all-day comfort.
+*   **Long-Lasting Battery:** Get months of use on a single AA battery with intelligent auto-sleep mode.
+*   **Universal Compatibility:** Works seamlessly with Windows, macOS, and ChromeOS.
+
+**Price: $29.99**
+
+***
+
+### Option 2: The "Modern Minimalist" (Focus on style and simplicity)
+**Product Name:** Luna Slim Wireless Mouse
+
+**Simplicity, refined.** 
+Ditch the clutter of cables with the Luna Slim. With its sleek, low-profile aesthetic and matte finish, it’s designed to look as good on your desk as it feels in your hand. Engineered for those who value form and function, the Luna offers precise tracking and effortless navigation at an accessible price point.
+
+*   **Sleek & Compact:** Fits easily into any laptop bag or sleeve.
+*   **Silent Clicks:** Keep your workspace peaceful with ultra-quiet buttons.
+*   **Precision Tracking:** High-definition optical sensor works on almost any surface.
+*   **Effortless Setup:** Simply plug the nano-receiver into your USB port and start working instantly.
+
+**Price: $29.99**
+
+***
+
+### Option 3: The "Tech Enthusiast" (Focus on specs and performance)
+**Product Name:** Velocity X1 Wireless Gaming & Productivity Mouse
+
+**High-performance tech, everyday price.** 
+Don’t settle for a basic mouse. The Velocity X1 delivers the responsiveness you crave with a high-resolution 1600 DPI sensor and a responsive
+
+--- Respuesta 2 ---
+Here are three options for the product description, depending on the "vibe" of your brand:
+
+### Option 1: The "Productivity Pro" (Professional & Practical)
+**Headline: Precision Meets Productivity – The Apex Wireless Mouse**
+Upgrade your workspace with the Apex Wireless Mouse, designed for seamless performance and all-day comfort. Featuring advanced 2.4GHz wireless technology, you’ll enjoy a rock-solid, lag-free connection up to 33 feet away. With its ergonomic, contoured shape and silent-click buttons, it’s the perfect companion for long hours at the office or late-night study sessions.
+
+*   **Plug-and-Play:** Simple USB nano-receiver setup—no software required.
+*   **Precision Tracking:** High-definition optical sensor works smoothly on almost any surface.
+*   **Battery Efficient:** Smart power-saving mode ensures months of use on a single AA battery.
+*   **Price:** $29.99
+
+***
+
+### Option 2: The "Minimalist Chic" (Sleek & Modern)
+**Headline: Clean Desk, Clear Mind.**
+Ditch the clutter without breaking the bank. The [Product Name] wireless mouse combines a sleek, ultra-slim profile with high-performance internals. Finished in a premium matte coating, it feels as good as it looks. Whether you’re working from a coffee shop or your home office, its compact design slides easily into your laptop bag, making it the ultimate travel-ready accessory.
+
+*   **Ultra-Slim Profile:** Designed to fit naturally in your palm.
+*   **Whisper-Quiet:** Tactile feedback without the distracting "click" noise.
+*   **Universal Compatibility:** Works flawlessly with Windows, macOS, and ChromeOS.
+*   **Price:** $29.99
+
+***
+
+### Option 3: The "Value-Focused" (Punchy & Benefit-Driven)
+**Headline: The Last Mouse You’ll Need to Buy.**
+Why pay premium prices for premium features? The [Product Name] Wireless Mouse delivers high-end reliability for just $29.99. We’ve stripped away the unnecessary gimmicks to focus on what matters: a fast, reliable connection, an ergonomic grip, and a battery that actually lasts. 
+
+**Why you’ll love it:**
+*   **Instant
+
+--- Respuesta 3 ---
+Here are three options for the product description, depending on the "vibe" of your brand:
+
+### Option 1: The "Productivity Pro" (Professional & Practical)
+**Headline: Precision Meets Productivity – The ErgoFlow Wireless Mouse**
+
+Upgrade your workspace with the ErgoFlow Wireless Mouse, designed to deliver seamless performance at an unbeatable value. Featuring a 2.4GHz stable wireless connection and a high-precision optical sensor, this mouse ensures lag-free tracking on almost any surface. Its contoured, ergonomic shape fits naturally in your hand, reducing fatigue during long work sessions. With a silent-click design and a battery life that lasts for months, it’s the perfect companion for the office, home, or on the go.
+
+*   **Price:** $29.99
+*   **Key Features:** Plug-and-play setup, silent-click buttons, 12-month battery life, adjustable DPI settings.
+
+***
+
+### Option 2: The "Minimalist Tech" (Sleek & Modern)
+**Headline: Clean Desk, Clear Mind: The Ultra-Slim Wireless Mouse**
+
+Ditch the clutter without breaking the bank. The Ultra-Slim Wireless Mouse combines a sophisticated, minimalist aesthetic with reliable daily performance. At just $29.99, you get premium build quality, a smooth matte finish, and whisper-quiet navigation that keeps your focus where it belongs—on your work. Compact enough to slide into any laptop bag, yet durable enough for everyday use.
+
+*   **Price:** $29.99
+*   **Key Features:** Ultra-thin profile, rechargeable built-in battery, universal compatibility (Windows/macOS), ergonomic matte texture.
+
+***
+
+### Option 3: The "Gamer on a Budget" (High Energy & Performance)
+**Headline: Master Your Move – The Apex Wireless Gaming Mouse**
+
+High-performance gaming doesn't have to come with a high price tag. The Apex Wireless Mouse gives you the speed, accuracy, and responsiveness you need to dominate the leaderboard. Featuring a lag-free wireless connection and customizable DPI settings, you can switch from rapid-fire precision to smooth browsing in an instant. Dominate your game for just $29.99.
+
+*   **Price:** $29.99
+*   **Key Features:** 1600 DPI optical
+
+--- Respuesta 4 ---
+Here are three options for the product description, depending on the "vibe" of your brand.
+
+### Option 1: The "Professional & Sleek" Approach (Best for general office use)
+**Product Name: ApexFlow Wireless Ergonomic Mouse**
+**Price: $29.99**
+
+**Upgrade your workspace without the clutter.**
+The ApexFlow Wireless Mouse combines premium performance with a minimalist aesthetic. Designed for professionals who demand reliability, this mouse features ultra-quiet clicking, a high-precision optical sensor, and a contoured shape that fits perfectly in your palm for all-day comfort.
+
+*   **Plug-and-Play:** Simple 2.4GHz USB receiver setup—no software required.
+*   **Silent Clicks:** Focus on your work, not the noise. Perfect for shared offices or late-night study sessions.
+*   **Long Battery Life:** Efficient power management keeps you going for months on a single AA battery.
+*   **Universal Compatibility:** Works seamlessly with Windows, macOS, and ChromeOS.
+
+---
+
+### Option 2: The "Performance-Driven" Approach (Best for tech/productivity enthusiasts)
+**Product Name: Velocity Pro Precision Mouse**
+**Price: $29.99**
+
+**Precision at your fingertips.**
+Stop letting lag hold you back. The Velocity Pro is engineered for those who move fast. With adjustable DPI settings (800/1200/1600), you can switch between pixel-perfect photo editing and lightning-fast web browsing with the touch of a button. 
+
+*   **Customizable DPI:** Tailor your cursor speed to your task.
+*   **Lag-Free Connection:** Advanced wireless technology ensures your cursor moves exactly when you do.
+*   **Ergonomic Grip:** Textured side grips provide maximum control and comfort during long sessions.
+*   **Sleek, Modern Design:** A low-profile silhouette that looks great on any desk setup.
+
+---
+
+### Option 3: The "Short & Punchy" Approach (Best for Amazon or E-commerce listings)
+**Product Name: Essential Wireless Mouse**
+**Price: $29.99**
+
+**Simple. Reliable. Ready when you are.**
+Ditch the wires without breaking the bank. The Essential Wireless Mouse is the perfect desktop companion, offering a stable 33ft
+
+--- Respuesta 5 ---
+Here are three options for the product description, tailored to different brand voices:
+
+### Option 1: The "Productivity Pro" (Focus on efficiency and reliability)
+**Headline: Precision at Your Fingertips – The Essential Wireless Mouse**
+
+Upgrade your workspace with the perfect blend of performance and simplicity. Designed for professionals and students alike, this wireless mouse offers a seamless, lag-free connection that keeps you in the flow. Its ergonomic, contoured shape fits naturally in your hand, reducing fatigue during long work sessions, while the high-precision optical sensor ensures smooth tracking on virtually any surface.
+
+*   **Reliable Connectivity:** Advanced 2.4GHz wireless technology for a stable, drop-free experience.
+*   **Plug-and-Play:** Simply insert the USB nano-receiver and get started instantly.
+*   **Silent Clicks:** Work anywhere without the distraction of loud clicking sounds.
+*   **Long Battery Life:** Engineered for efficiency, so you can go months without a battery swap.
+*   **Price:** $29.99
+
+***
+
+### Option 2: The "Minimalist Chic" (Focus on design and aesthetics)
+**Headline: Sleek, Silent, and Always Connected.**
+
+Why settle for clutter? Our slim-profile wireless mouse is designed to complement your modern desk setup. With its ultra-quiet buttons and elegant, low-profile aesthetic, it’s the perfect companion for your laptop or home office. Whether you’re editing photos, browsing the web, or managing spreadsheets, enjoy the freedom of a cordless workspace without breaking the bank.
+
+*   **Modern Design:** A slim, lightweight frame that slides easily into your laptop bag.
+*   **Whisper-Quiet:** Designed for shared offices, libraries, or late-night study sessions.
+*   **Precision Control:** Adjustable DPI settings to match your preferred cursor speed.
+*   **Universal Compatibility:** Works seamlessly with Windows, macOS, and ChromeOS.
+*   **Price:** $29.99
+
+***
+
+### Option 3: Short & Punchy (Best for Amazon/E-commerce listings)
+**Headline: Premium Performance, Budget-Friendly Price.**
+
+Experience the freedom of wireless navigation. This high-performance mouse delivers everything you need—reliable connectivity, precise tracking, and an ergonomic design—all for under $30. 
+
+**Key Features:**
+
+
+--- Respuesta 6 ---
+Here are three options for the product description, tailored to different brand voices:
+
+### Option 1: The "Productivity Pro" (Focus on efficiency)
+**Product Title: ApexFlow Wireless Ergonomic Mouse**
+**Price: $29.99**
+
+Upgrade your workspace with the ApexFlow Wireless Mouse, the perfect blend of precision and comfort. Designed for those who demand efficiency, this mouse features a high-definition optical sensor that tracks smoothly on almost any surface. With its whisper-quiet clicking mechanism and ergonomic contoured shape, you can power through your workday without fatigue or distraction.
+
+*   **Plug-and-Play Simplicity:** Just insert the USB nano-receiver and you’re ready to go.
+*   **Extended Battery Life:** Go months without a charge thanks to our intelligent power-saving mode.
+*   **Customizable DPI:** Switch between 800, 1200, and 1600 DPI to match your preferred cursor speed.
+*   **Universal Compatibility:** Works seamlessly with Windows, macOS, and ChromeOS.
+
+---
+
+### Option 2: The "Minimalist Chic" (Focus on style and desk setup)
+**Product Title: Luna Slim Wireless Mouse**
+**Price: $29.99**
+
+Clutter-free, sleek, and exceptionally reliable. The Luna Slim Wireless Mouse is designed to complement your modern desk aesthetic while providing a premium navigation experience. Its ultra-thin profile slips easily into your laptop bag, making it the ideal companion for students, digital nomads, and coffee-shop commuters. 
+
+*   **Sleek Aesthetic:** Available in Matte Black, Arctic White, and Rose Gold.
+*   **Silent Clicks:** Keep your focus sharp and your environment quiet with sound-dampened buttons.
+*   **Reliable 2.4GHz Connection:** Experience a lag-free experience with a 33-foot wireless range.
+*   **Comfort-First Design:** A low-profile arc that fits naturally in your hand for all-day comfort.
+
+---
+
+### Option 3: The "Value-Packed" (Focus on features and price)
+**Product Title: TitanClick Pro Wireless Mouse**
+**Price: $29.99**
+
+Why pay for a premium price tag when you can get professional-grade performance for just $29.99?
+
+--- Respuesta 7 ---
+Here are three different options for the product description, depending on the "vibe" of your brand.
+
+### Option 1: The "Professional & Sleek" Approach
+**Product Title:** PrecisionFlow Wireless Ergonomic Mouse – Silence, Speed, and Style
+
+**Description:**
+Upgrade your workspace with the PrecisionFlow Wireless Mouse, where high-performance engineering meets minimalist design. Designed for professionals who demand reliability, this mouse features ultra-quiet clicking, a high-precision optical sensor, and a contoured shape that fits naturally in your palm for all-day comfort.
+
+*   **Lag-Free Connectivity:** Reliable 2.4GHz wireless technology ensures a rock-solid connection up to 33 feet.
+*   **Whisper-Quiet:** Focus on your work, not the noise. Our silent-click buttons are perfect for libraries, offices, and late-night study sessions.
+*   **Plug & Play:** Simply plug the nano-receiver into your USB port and get to work instantly—no software installation required.
+*   **Long-Lasting Battery:** Smart energy-saving technology keeps you powered for months on a single AA battery.
+
+**Price:** $29.99
+
+***
+
+### Option 2: The "Tech-Savvy & Feature-Rich" Approach
+**Product Title:** VelocityPro 2.4GHz Wireless Optical Mouse – Adjustable DPI
+
+**Description:**
+Take control of your digital world with the VelocityPro Wireless Mouse. Whether you’re editing photos, managing spreadsheets, or browsing the web, the VelocityPro offers the versatility you need at a price that makes sense.
+
+**Key Features:**
+*   **Adjustable DPI:** Switch between 800, 1200, and 1600 DPI settings with the touch of a button to match your preferred cursor speed.
+*   **Ergonomic Grip:** Textured side grips and a sweat-resistant finish provide maximum control during heavy use.
+*   **Universal Compatibility:** Works seamlessly with Windows, macOS, ChromeOS, and Linux.
+*   **Travel-Ready:** The compact, low-profile design slips easily into your laptop bag, making it the perfect companion for commuters and students.
+
+**Price:** $29.99
+
+***
+
+### Option 3: Short & Punchy (Best for Amazon or E-commerce)
+**Product Title:** Essential Wireless Mouse
+
+--- Respuesta 8 ---
+Here are three options for the product description, tailored to different brand "voices."
+
+### Option 1: The "Productivity Pro" (Focus on efficiency and comfort)
+**Product Title:** Zenith Wireless Ergonomic Mouse – Precision Performance, Anywhere.
+
+**Description:**
+Upgrade your workspace with the Zenith Wireless Mouse, the perfect blend of comfort and high-precision tracking. Designed with an ergonomic, contoured shape that fits naturally in your hand, this mouse keeps you productive during long work sessions. 
+
+*   **Lag-Free Connection:** Enjoy a reliable 2.4GHz wireless connection with a plug-and-play USB receiver.
+*   **Whisper-Quiet Clicks:** Stay focused without the distraction of loud clicking noises—perfect for offices, libraries, or late-night study sessions.
+*   **Precision Tracking:** High-definition optical sensor ensures smooth, accurate cursor control on almost any surface.
+*   **Long Battery Life:** Power-saving technology keeps you going for months on a single AA battery.
+
+**Price:** $29.99
+
+***
+
+### Option 2: The "Minimalist/Tech-Savvy" (Focus on design and sleekness)
+**Product Title:** Apex Slim Wireless Mouse – Modern Design, Effortless Control.
+
+**Description:**
+Sleek, silent, and incredibly responsive. The Apex Slim Wireless Mouse is designed for the modern professional who values aesthetics as much as performance. With its ultra-thin profile and matte finish, it slides easily into your laptop bag, making it the ultimate travel companion.
+
+*   **Plug & Play:** No software required. Just plug the tiny nano-receiver into your USB port and get to work instantly.
+*   **Symmetrical Design:** Perfectly balanced for both right- and left-handed users.
+*   **Energy Efficient:** Automatically enters sleep mode when not in use to maximize battery longevity.
+*   **Universal Compatibility:** Works seamlessly with Windows, macOS, and ChromeOS.
+
+**Price:** $29.99
+
+***
+
+### Option 3: The "Value-Focused" (Focus on reliability and affordability)
+**Product Title:** Essential Wireless Mouse – Reliable Performance at an Unbeatable Price.
+
+**Description:**
+Why pay more for features you don’t need? The Essential Wireless Mouse gives you exactly what you’re looking for: a rock-solid connection, comfortable grip,
+
+--- Respuesta 9 ---
+Error: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\nPlease retry in 19.090507225s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}]
+
+--- Respuesta 10 ---
+Here are three options for the product description, tailored to different brand voices:
+
+### Option 1: The "Productivity Pro" (Focus on efficiency and design)
+**The ApexFlow Wireless Mouse – Precision Meets Comfort**
+
+Upgrade your workspace with the ApexFlow Wireless Mouse. Designed for those who demand both style and substance, this mouse features a contoured, ergonomic shape that keeps your hand comfortable through the longest workdays. With ultra-responsive optical tracking and silent-click buttons, you can navigate documents and browse the web with pinpoint accuracy—without the distraction of noisy clicking. 
+
+*   **Seamless Connectivity:** Reliable 2.4GHz wireless connection with a plug-and-forget USB receiver.
+*   **Ergonomic Design:** Sculpted to fit the natural curve of your palm.
+*   **Long-Lasting Power:** Smart sleep mode ensures months of battery life on a single AA battery.
+*   **Plug & Play:** No software required; just plug in and get to work.
+
+**Price: $29.99**
+
+***
+
+### Option 2: The "Minimalist Chic" (Short, punchy, and modern)
+**Elevate Your Desk: The SlimLine Wireless Mouse**
+
+Cut the cord without breaking the bank. The SlimLine Wireless Mouse combines a sleek, ultra-thin profile with high-performance tracking, making it the perfect companion for your laptop or desktop. Whether you’re at the office, a coffee shop, or your home desk, its lightweight design makes it easy to take anywhere.
+
+*   **Sleek & Portable:** Fits perfectly into any laptop bag or briefcase.
+*   **Whisper-Quiet:** Designed for quiet environments like libraries and shared offices.
+*   **Precision Control:** Adjustable DPI settings to match your preferred cursor speed.
+*   **Universal Compatibility:** Works seamlessly with Windows, macOS, and ChromeOS.
+
+**Price: $29.99**
+
+***
+
+### Option 3: The "Tech-Value" (Focus on features and affordability)
+**Reliability You Can Trust: The Essential Wireless Mouse**
+
+Why pay more for premium performance? Our Essential Wireless Mouse delivers everything you need for smooth, reliable computing at a price that makes sense. Featuring a high-definition optical sensor and a stable 33-foot wireless range, this mouse is built to handle everything from complex spreadsheets to casual
+
+--- Respuesta 11 ---
+Here are three options for the product description, depending on the "vibe" of your brand:
+
+### Option 1: The Modern & Minimalist (Best for general retail)
+**Product Name: ApexFlow Wireless Ergonomic Mouse**
+**Price: $29.99**
+
+**Precision at your fingertips.**
+Upgrade your workspace with the ApexFlow Wireless Mouse. Designed for those who value both form and function, this mouse features a sleek, contoured shape that fits naturally in your hand, reducing fatigue during long hours of work or play. With whisper-quiet clicking and a high-precision optical sensor, you can navigate your digital world with total silence and pinpoint accuracy. 
+
+*   **Plug-and-Play Simplicity:** Just plug the USB nano-receiver into your computer and you’re ready to go—no drivers required.
+*   **Long-Lasting Power:** Engineered for efficiency, enjoy months of battery life on a single charge.
+*   **Universal Compatibility:** Works seamlessly with Windows, macOS, and ChromeOS.
+
+---
+
+### Option 2: The Productivity-Focused (Best for office/home-office)
+**Product Name: SwiftClick Pro Wireless Mouse**
+**Price: $29.99**
+
+**Master your workflow.**
+Stop letting a tangled cord slow you down. The SwiftClick Pro offers a reliable, lag-free wireless connection with a 33-foot range, giving you the freedom to work from anywhere at your desk. Whether you’re crunching numbers in Excel or browsing the web, the adjustable DPI settings allow you to switch sensitivity on the fly to match your pace.
+
+*   **Silent-Click Technology:** Focus on what matters without the distraction of loud clicking sounds.
+*   **Ergonomic Design:** A soft-touch finish and natural grip design keep your hand comfortable all day long.
+*   **Smart Sleep Mode:** Automatically saves energy when not in use, extending your battery life significantly.
+
+---
+
+### Option 3: The Short & Punchy (Best for Amazon or social media ads)
+**Product Name: Horizon Wireless Optical Mouse**
+**Price: $29.99**
+
+**Wireless freedom, premium feel.**
+Experience smooth, responsive navigation without the clutter. The Horizon Wireless Mouse combines professional performance with an ultra-portable design. Perfect for students, professionals, and travelers alike.
+
+*
+
+--- Respuesta 12 ---
+Here are three options for the product description, depending on the "vibe" of your brand:
+
+### Option 1: The "Professional & Practical" (Best for Amazon/General Retail)
+**Product Title:** PrecisionFlow Wireless Optical Mouse – 2.4GHz Ergonomic Desktop Companion
+
+**Product Description:**
+Upgrade your workspace with the PrecisionFlow Wireless Mouse, designed for those who value efficiency and comfort. Whether you’re crunching numbers in a spreadsheet or browsing the web, this mouse delivers smooth, responsive tracking on almost any surface.
+
+*   **Plug-and-Play Simplicity:** Just plug the tiny USB receiver into your computer and you’re ready to go—no software installation required.
+*   **Ergonomic Design:** Contoured shape fits naturally in your hand, reducing strain during long work sessions.
+*   **Silent Click Technology:** Work in peace without the distracting "click" noise, perfect for shared offices or late-night study sessions.
+*   **Reliable Connectivity:** Advanced 2.4GHz wireless technology provides a stable, lag-free connection up to 33 feet away.
+*   **Battery Efficient:** Features an auto-sleep mode to preserve power, ensuring months of use on a single set of batteries.
+
+**Price:** $29.99
+
+***
+
+### Option 2: The "Sleek & Modern" (Best for a trendy lifestyle brand)
+**Product Title:** The Apex Wireless Mouse – Minimalist Design, Maximum Performance
+
+**Product Description:**
+Meet the perfect balance of form and function. The Apex Wireless Mouse brings a clean, modern aesthetic to your desk while providing the precision you need to get the job done. With its ultra-slim profile and matte finish, it’s the ultimate accessory for the modern professional or student on the move.
+
+**Why you’ll love it:**
+*   **Seamless Portability:** Slim enough to slide into your laptop bag or pocket without the bulk.
+*   **Responsive Precision:** High-definition optical tracking for pixel-perfect cursor control.
+*   **Universal Compatibility:** Works flawlessly with Windows, macOS, and ChromeOS.
+*   **Whisper-Quiet:** Designed with silent switches so you can focus on your work, not the noise.
+
+Elevate your desktop setup for just $29.99.
+
+***
+
+### Option 3: The "Short
+
+--- Respuesta 13 ---
+Here are three options for the product description, depending on the "vibe" of your brand:
+
+### Option 1: The "Professional & Sleek" Approach (Best for general office use)
+**Product Title:** PrecisionFlow Wireless Optical Mouse – Ergonomic, Silent, and Reliable
+
+**Description:**
+Upgrade your workspace with the PrecisionFlow Wireless Mouse, designed to blend seamless performance with modern aesthetics. Whether you’re crunching numbers or navigating creative projects, this mouse delivers pinpoint accuracy and a comfortable, ergonomic grip that reduces wrist strain during long hours of work.
+
+*   **Whisper-Quiet Clicking:** Focus on your tasks without the distraction of loud clicking noises.
+*   **Plug-and-Play Simplicity:** Just insert the USB receiver and you’re ready to go—no software or complicated setup required.
+*   **Long-Lasting Battery:** Engineered for efficiency, so you can work for months on a single AA battery.
+*   **Universal Compatibility:** Works flawlessly with Windows, macOS, and ChromeOS.
+
+**Price:** $29.99
+*Elevate your daily workflow without breaking the bank.*
+
+***
+
+### Option 2: The "Minimalist/Tech-Focused" Approach (Best for students or travelers)
+**Product Title:** Apex Slim Wireless Mouse – 2.4GHz Connectivity, Ultra-Portable
+
+**Description:**
+Compact, lightweight, and built for life on the go. The Apex Slim Wireless Mouse is the perfect companion for your laptop bag. Featuring a sleek, low-profile design and high-precision tracking, it works on almost any surface—from coffee shop tables to your living room sofa.
+
+*   **Ultra-Slim Profile:** Designed to slip easily into your bag or sleeve.
+*   **Reliable 2.4GHz Wireless:** Enjoy a lag-free connection up to 30 feet away.
+*   **Adjustable DPI:** Switch between sensitivity levels (800/1200/1600) with the touch of a button to match your pace.
+*   **Auto-Sleep Mode:** Saves power automatically when not in use to extend battery life.
+
+**Price:** $29.99
+*Smart design meets everyday performance.*
+
+***
+
+### Option 3: The "Value-Packed" Approach (Best for Amazon/e-commerce listings)
+**Product Title:**
+
+--- Respuesta 14 ---
+Error: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\nPlease retry in 29.108237258s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.1-flash-lite', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}]
+
+--- Respuesta 15 ---
+Error: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\nPlease retry in 27.162443452s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.1-flash-lite'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}]
+
+===== EXTRACCIÓN v1 =====
+
+--- Respuesta 1 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 2 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 3 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 4 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 5 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 6 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 7 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 8 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 9 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 10 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 11 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 12 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 13 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 14 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+
+--- Respuesta 15 ---
+Here is the extracted information from the feedback:
+
+*   **Item Number:** #12345
+*   **Order Date:** March 15th
+*   **Positive Feedback:** Fast delivery
+*   **Negative Feedback:** Damaged packaging
+

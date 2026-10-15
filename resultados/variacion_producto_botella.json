@@ -1,0 +1,14 @@
+{
+  "nombre": "variacion_producto_botella",
+  "modelo": "gemini-3.1-flash-lite-preview",
+  "temperature": 0.7,
+  "fecha": "2026-10-15T17:44:52",
+  "prompt": "Write a product description for the product below. Write one single paragraph of 40 to 60 words, with no title and no bullet points. Use only the facts given: the product type and the price. Do not invent specifications, numbers or features.\n\nProduct: backpack, $49.99\nDescription: This backpack offers a practical way to carry your daily essentials, from work to weekend plans. Its straightforward design keeps things simple and organized, making it an easy companion for commuting, studying or travelling. At $49.99, it is an accessible choice for anyone looking for a reliable, no-fuss bag.\n\nProduct: water bottle, $18.50\nDescription:",
+  "respuestas": [
+    "This water bottle is an accessible choice for anyone needing a reliable way to stay hydrated throughout the day. Designed for simplicity and convenience, it serves as a practical companion for your daily activities. At a price of $18.50, this product offers a straightforward solution for your hydration needs at home or away.",
+    "This water bottle is an essential accessory for your daily hydration needs, whether you are at home, work, or on the go. Its simple and functional design makes it a convenient choice for any lifestyle. Priced at $18.50, this product offers an accessible and reliable solution for carrying your favorite beverages throughout the day.",
+    "This water bottle is an accessible choice for anyone needing a reliable way to stay hydrated throughout the day. Designed for simplicity and convenience, it is a practical companion for your daily activities. At a price of $18.50, this product offers a straightforward and functional solution for your everyday hydration needs.",
+    "This water bottle is an accessible choice for anyone needing a reliable way to stay hydrated throughout the day. Designed for simplicity and convenience, it is a practical companion for your various daily activities. At $18.50, this product offers an affordable and straightforward solution for your everyday water storage needs.",
+    "This water bottle is an accessible and reliable choice for anyone looking for a simple way to stay hydrated throughout the day. Designed for daily use, it offers a practical solution for your hydration needs at home, work, or on the go. This product is currently available for the price of $18.50."
+  ]
+}

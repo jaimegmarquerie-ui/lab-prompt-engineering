@@ -1,0 +1,14 @@
+{
+  "nombre": "variacion_sentimiento_neutro",
+  "modelo": "gemini-3.1-flash-lite-preview",
+  "temperature": 0.7,
+  "fecha": "2026-10-15T17:43:55",
+  "prompt": "Classify the sentiment of each customer message as exactly one word: Positive, Negative, or Neutral. Reply with only that word, with no explanation and no punctuation.\n\nMessage: \"The package arrived on time and everything works perfectly.\"\nSentiment: Positive\n\nMessage: \"The box was torn and nobody has answered my complaint.\"\nSentiment: Negative\n\nMessage: \"I ordered the blue model on Tuesday.\"\nSentiment: Neutral\n\nMessage: \"I would like to know if this model comes in black.\"\nSentiment:",
+  "respuestas": [
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral"
+  ]
+}

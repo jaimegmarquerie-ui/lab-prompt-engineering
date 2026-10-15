@@ -1,0 +1,24 @@
+{
+  "nombre": "sentimiento_v3",
+  "modelo": "gemini-3.1-flash-lite-preview",
+  "temperature": 0.7,
+  "fecha": "2026-10-15T15:15:27",
+  "prompt": "Classify the sentiment of each customer message as exactly one word: Positive, Negative, or Neutral. Reply with only that word, with no explanation and no punctuation.\n\nMessage: \"The package arrived on time and everything works perfectly.\"\nSentiment: Positive\n\nMessage: \"The box was torn and nobody has answered my complaint.\"\nSentiment: Negative\n\nMessage: \"I ordered the blue model on Tuesday.\"\nSentiment: Neutral\n\nMessage: \"I love this product! It's exactly what I needed.\"\nSentiment:",
+  "respuestas": [
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive",
+    "Positive"
+  ]
+}
